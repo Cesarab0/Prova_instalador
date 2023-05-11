@@ -1,0 +1,15 @@
+C:\Users\cesar.oquendo\Downloads\Projeto\obj\Debug\net7.0-windows\Projeto.csproj.AssemblyReference.cache
+C:\Users\cesar.oquendo\Downloads\Projeto\obj\Debug\net7.0-windows\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar.oquendo\Downloads\Projeto\obj\Debug\net7.0-windows\Projeto.AssemblyInfoInputs.cache
+C:\Users\cesar.oquendo\Downloads\Projeto\obj\Debug\net7.0-windows\Projeto.AssemblyInfo.cs
+C:\Users\cesar.oquendo\Downloads\Projeto\obj\Debug\net7.0-windows\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\cesar.oquendo\Downloads\Projeto\bin\Debug\net7.0-windows\Projeto.exe
+C:\Users\cesar.oquendo\Downloads\Projeto\bin\Debug\net7.0-windows\Projeto.deps.json
+C:\Users\cesar.oquendo\Downloads\Projeto\bin\Debug\net7.0-windows\Projeto.runtimeconfig.json
+C:\Users\cesar.oquendo\Downloads\Projeto\bin\Debug\net7.0-windows\Projeto.dll
+C:\Users\cesar.oquendo\Downloads\Projeto\bin\Debug\net7.0-windows\Projeto.pdb
+C:\Users\cesar.oquendo\Downloads\Projeto\obj\Debug\net7.0-windows\Projeto.dll
+C:\Users\cesar.oquendo\Downloads\Projeto\obj\Debug\net7.0-windows\refint\Projeto.dll
+C:\Users\cesar.oquendo\Downloads\Projeto\obj\Debug\net7.0-windows\Projeto.pdb
+C:\Users\cesar.oquendo\Downloads\Projeto\obj\Debug\net7.0-windows\Projeto.genruntimeconfig.cache
+C:\Users\cesar.oquendo\Downloads\Projeto\obj\Debug\net7.0-windows\ref\Projeto.dll

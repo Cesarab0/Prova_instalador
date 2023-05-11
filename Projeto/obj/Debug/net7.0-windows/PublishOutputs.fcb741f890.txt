@@ -1,0 +1,5 @@
+C:\Users\cesar.oquendo\Downloads\Projeto\bin\Debug\net7.0-windows\publish\Projeto.exe
+C:\Users\cesar.oquendo\Downloads\Projeto\bin\Debug\net7.0-windows\publish\Projeto.dll
+C:\Users\cesar.oquendo\Downloads\Projeto\bin\Debug\net7.0-windows\publish\Projeto.deps.json
+C:\Users\cesar.oquendo\Downloads\Projeto\bin\Debug\net7.0-windows\publish\Projeto.runtimeconfig.json
+C:\Users\cesar.oquendo\Downloads\Projeto\bin\Debug\net7.0-windows\publish\Projeto.pdb
